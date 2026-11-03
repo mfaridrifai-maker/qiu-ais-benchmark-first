@@ -2,7 +2,7 @@ REVIEWER REPRODUCIBILITY PACKAGE
 ================================
 Satisfaction survey (Quality in Use) of an Academic Information System (AIS): anonymized data, analysis code, simulation code, seeds, and software versions.
 Manuscript (IJIES, Paper ID 20267219): "Benchmark-First K-Means Check for Threshold-Only Clusters in Satisfaction Data of an Academic Information System"
-(M. F. Rifai, P. Purwanto, D. M. K. Nugraheni). The permanent public repositories (Zenodo DOI and GitHub) will be added to the manuscript; this package is for confidential review.
+(M. F. Rifai, P. Purwanto, D. M. K. Nugraheni). The package is publicly available in this GitHub repository; a Zenodo archive with a DOI will be added upon acceptance.
 
 Quick start
 -----------

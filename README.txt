@@ -42,7 +42,8 @@ Notes
 - Overall score = mean of the four characteristic composites (EF, EC, ST, CC), each the mean of its items. K-Means: k-means++, random_state = 42 (survey), min-max normalized composites. The ARI rule compares K-Means on the four composites with K-Means on the overall score alone; ARI >= tau = 0.80 is read as thresholds (an operational reporting convention, not a validated test of dimensional structure).
 - Row order matters for exact reproduction of k-means results; use the file as provided.
 - Bootstrap stability in analysis_qiu_clustering.py (k = 2, 3, 4: 0.944, 0.918, 0.786) uses the older protocol (scaling not re-estimated). The revised manuscript reports the uniform protocol (0.945, 0.924, 0.781; revision/stability_*.py).
-- Cramer's V uses the grouped categories in the shared file; program and semester values can differ slightly from the manuscript, which used finer categories.
+- Cramer's V for study program and semester uses the grouped categories in the shared file; the manuscript reports these grouped values.
+- Table 2 (exploratory factor analysis) comes from efa_loadings_scree.py (principal axis, oblimin). efa_parallel_map.py is an exploratory companion with a different extraction, so its loadings and factor correlation (0.73) differ slightly from Table 2.
 - Free-text answers and the raw 401-row file (names) are not shared for privacy.
 
 License

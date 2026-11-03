@@ -41,7 +41,7 @@ Notes
 -----
 - Overall score = mean of the four characteristic composites (EF, EC, ST, CC), each the mean of its items. K-Means: k-means++, random_state = 42 (survey), min-max normalized composites. The ARI rule compares K-Means on the four composites with K-Means on the overall score alone; ARI >= tau = 0.80 is read as thresholds (an operational reporting convention, not a validated test of dimensional structure).
 - Row order matters for exact reproduction of k-means results; use the file as provided.
-- Bootstrap stability in analysis_qiu_clustering.py (k = 2, 3, 4: 0.944, 0.918, 0.786) uses the older protocol (scaling not re-estimated). The revised manuscript reports the uniform protocol (0.945, 0.907, 0.781; revision/stability_*.py).
+- Bootstrap stability in analysis_qiu_clustering.py (k = 2, 3, 4: 0.944, 0.918, 0.786) uses the older protocol (scaling not re-estimated). The revised manuscript reports the uniform protocol (0.945, 0.924, 0.781; revision/stability_*.py).
 - Cramer's V uses the grouped categories in the shared file; program and semester values can differ slightly from the manuscript, which used finer categories.
 - Free-text answers and the raw 401-row file (names) are not shared for privacy.
 

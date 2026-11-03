@@ -32,6 +32,7 @@ def fit(method,Xtr,seed):
 rng=np.random.RandomState(42); n=len(C); res={}
 Z0=mm(C,C)
 ref={m:fit(m,Z0,0)(Z0) for m in ["KMeans","FuzzyCMeans","Hierarchical","GMM"]}
+ref["KMeans"]=KMeans(3,init="k-means++",n_init=10,random_state=42).fit_predict(Z0)   # reported full-sample solution (n_init=10, random_state=42; lowest inertia). Other methods: reference = same fit/assignment rule as in the resamples.
 for m in ref: res[m]=[]
 for b in range(B):
     idx=rng.randint(0,n,n); Cb=C[idx]; Zb=mm(Cb,Cb); Zo=mm(C,Cb)   # scaling re-estimated on the resample

@@ -8,7 +8,7 @@ C=np.column_stack([df[v].astype(float).mean(axis=1) for v in CHAR.values()])
 mm=lambda A,r:(A-r.min(0))/(r.max(0)-r.min(0)+1e-12)
 Z0=mm(C,C); n=len(C)
 for k in (2,3,4):
-    ref=KMeans(k,init="k-means++",n_init=5,random_state=0).fit(Z0).predict(Z0)
+    ref=KMeans(k,init="k-means++",n_init=10,random_state=42).fit(Z0).predict(Z0)
     rng=np.random.RandomState(42); v=[]
     for b in range(200):
         idx=rng.randint(0,n,n); Cb=C[idx]

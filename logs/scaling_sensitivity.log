@@ -1,0 +1,5 @@
+observed ranges {'EF': 3.67, 'EC': 3.43, 'ST': 3.8, 'CC': 3.5} SDs {'EF': 0.697, 'EC': 0.71, 'ST': 0.696, 'CC': 0.676} IQR {'EF': 1.0, 'EC': 1.0, 'ST': 1.0, 'CC': 1.0}
+minmax   shares [np.float64(17.2), np.float64(42.4), np.float64(40.4)] thr 3.60/4.44 ARI vs overall-only 1.000 vs minmax-groups 1.000 Silh 0.541
+raw      shares [np.float64(17.2), np.float64(42.0), np.float64(40.8)] thr 3.60/4.44 ARI vs overall-only 0.989 vs minmax-groups 0.989 Silh 0.541
+z        shares [np.float64(17.2), np.float64(42.4), np.float64(40.4)] thr 3.60/4.44 ARI vs overall-only 1.000 vs minmax-groups 1.000 Silh 0.540
+robust   shares [np.float64(17.2), np.float64(42.0), np.float64(40.8)] thr 3.60/4.44 ARI vs overall-only 0.989 vs minmax-groups 0.989 Silh 0.541

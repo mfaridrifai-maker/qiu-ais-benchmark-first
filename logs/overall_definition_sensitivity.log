@@ -1,0 +1,4 @@
+mean A 4.211  B 4.202  Pearson r 0.9991
+A (4 composites) shares [np.float64(17.2), np.float64(42.4), np.float64(40.4)] thresholds 3.60/4.44 ARI(4-composite K-Means vs overall-only)=1.000 share<3.5=15.6%
+B (22 items) shares [np.float64(16.9), np.float64(42.7), np.float64(40.4)] thresholds 3.57/4.43 ARI(4-composite K-Means vs overall-only)=0.931 share<3.5=15.0%
+ARI between the two overall-score partitions: 0.931

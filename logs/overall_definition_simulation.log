@@ -1,0 +1,5 @@
+U thr@0.8 char 94.0% item 87.0% meanARI char 0.931 item 0.876 thr@0.9 char 79.7 item 48.7
+G thr@0.8 char 99.7% item 99.7% meanARI char 0.978 item 0.955 thr@0.9 char 98.0 item 94.7
+M0.4 thr@0.8 char 76.3% item 40.7% meanARI char 0.840 item 0.775 thr@0.9 char 25.7 item 10.7
+M0.6 thr@0.8 char 11.0% item 7.7% meanARI char 0.503 item 0.488 thr@0.9 char 4.0 item 2.0
+M0.8 thr@0.8 char 0.0% item 0.0% meanARI char 0.332 item 0.332 thr@0.9 char 0.0 item 0.0

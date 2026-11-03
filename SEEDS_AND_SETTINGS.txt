@@ -1,0 +1,29 @@
+SEEDS, SETTINGS, AND SOFTWARE
+=============================
+Software: Python 3.10.12; numpy 2.2.6; pandas 2.3.3; scipy 1.15.3; scikit-learn 1.7.2; semopy 2.3.11; joblib 1.6.0; matplotlib 3.10.9; factor_analyzer 0.5.1.
+semopy's own polychoric function does not run with scipy 1.15 (it calls a removed routine), so revision/ordinal_cfa.py contains its own two-step polychoric estimator (thresholds from marginals, correlation by maximum likelihood with a Gauss-Legendre bivariate normal CDF).
+
+Survey analyses (analysis_qiu_clustering.py and the sensitivity scripts)
+  K-Means: k-means++, n_init = 10, random_state = 42, Euclidean distance, on min-max normalized composites (EF, EC, ST, CC).
+  Bootstrap (analysis_qiu_clustering.py): RandomState(42), 200 resamples (stability k = 2, 3, 4: 0.944, 0.918, 0.786 under that older protocol; see BOOTSTRAP_DEFINITIONS.txt for the uniform protocol used in the revised manuscript).
+
+Uniform stability protocol (revision/stability_uniform.py, revision/stability_kmeans_k.py)
+  RandomState(42); 200 resamples; seeds of the refits: b = resample index (K-Means n_init = 5, random_state = b; mixture n_init = 2, random_state = b; fuzzy c-means seed b); full-sample reference partitions use seed 0.
+
+Baseline simulation (simulate_benchmark_first.py, Table 4)
+  Scenarios U and G: seeds 1000 + r; M: 2000 + r; sensitivity runs N = 150 and 600: 3000 + r; r = 0..299 (300 replications).
+  K-Means: k-means++, n_init = 5, random_state = seed of the replication; min-max scaling re-estimated in every replication.
+Comparison with established checks (compare_established_methods.py, Table 5; revision/residual_comparator_table5.py)
+  seeds 5000 + r, 60 replications; parallel analysis: 30 reference data sets, 95th percentile; gap statistic: PCA-aligned reference, 10 reference data sets, k = 1..6; Gaussian mixture: full covariance, n_init = 2, k = 1..5, BIC; Silhouette >= 0.50 for k = 3.
+  Conditional residual-profile comparator: one-factor Gaussian parametric bootstrap, 199 data sets, seed 900000 + r, alpha = 0.05.
+
+Extended simulation (revision/sim_extended.py)
+  Configuration draw: default_rng(20261104), 240 configurations (class A 40, B 60, C 80, D 60; see revision/results/sim_extended_configs.csv).
+  Replications: 200 per configuration; seed of replication r of configuration c: 100000 * c + r; rule applied with k = 2, 3, 4.
+  Residual-profile test: 99 parametric-bootstrap data sets per replication; composite parallel analysis: 50 random normal data sets, second eigenvalue vs 95th percentile.
+Calibration and validation (revision/calibrate_tau.py)
+  Split of configurations into calibration and validation halves within class: default_rng(7).
+  Loss = 0.5 * false structure (classes A, B; ARI < tau) + 0.5 * missed profile (class C; ARI >= tau); tau grid 0.50..0.95 step 0.05.
+  Intervals: configuration-level bootstrap (configurations resampled) and Wilson intervals for pooled replication-level rates.
+Survey residual-profile test (revision/survey_residual_test.py): default_rng(3), 2,000 parametric-bootstrap data sets.
+Silhouette bootstrap and paired tertile difference (confidence_intervals.py): default_rng(42), 1,000 resamples, K-Means n_init = 5, random_state = resample index.

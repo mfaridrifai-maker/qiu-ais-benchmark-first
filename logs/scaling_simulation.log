@@ -1,0 +1,5 @@
+U minmax:94.0% raw:96.7% z:97.0% robust:94.3% | meanARI 0.931 0.964 0.963 0.913
+G minmax:99.7% raw:100.0% z:100.0% robust:100.0% | meanARI 0.978 0.989 0.990 0.972
+M0.4 minmax:76.3% raw:87.3% z:88.3% robust:67.7% | meanARI 0.840 0.890 0.890 0.821
+M0.6 minmax:11.0% raw:11.7% z:12.0% robust:8.3% | meanARI 0.503 0.491 0.487 0.486
+M0.8 minmax:0.0% raw:0.0% z:0.0% robust:0.0% | meanARI 0.332 0.338 0.332 0.337

@@ -1,0 +1,4 @@
+BIC k=1..10 [-2132. -4018. -4647. -4606. -4450. -4958. -4403. -4421. -4960. -4924.] min at k = 9
+k=3 mixture: Silhouette 0.084, ARI vs K-Means 0.128, sizes [ 52 196  66]
+respondents with all 22 items = 5: 62 by component [ 0  0 62] | Silhouette by component [np.float64(0.563), np.float64(-0.348), np.float64(0.99)]
+without all-5 respondents: Silhouette 0.108, ARI 0.214

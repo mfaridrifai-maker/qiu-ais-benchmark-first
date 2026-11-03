@@ -1,0 +1,4 @@
+KMeans: mean ARI 0.907  SD 0.062  95% interval [0.796, 1.000]  n=200
+FuzzyCMeans: mean ARI 0.955  SD 0.034  95% interval [0.883, 1.000]  n=200
+Hierarchical: mean ARI 0.822  SD 0.090  95% interval [0.619, 0.961]  n=200
+GMM: mean ARI 0.673  SD 0.220  95% interval [0.322, 0.971]  n=200

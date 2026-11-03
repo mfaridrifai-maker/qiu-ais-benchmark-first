@@ -1,0 +1,315 @@
+respondent_id,REG1,REG2,REG3,REG4,REG5,REG6,REG7,REG8,GRD1,GRD2,GRD3,GRD4,GRD5,SCH1,SCH2,SCH3,SCH4,SCH5,PAY1,PAY2,PAY3,PAY4,gender,program_group,semester_group,use_frequency,most_used_module,device_group,problem_slow_loading,problem_errors_crash,problem_features_unusable,problem_confusing,problem_device_access,problem_none_selected
+R001,4,5,4,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,7+,Several times per week,Grade Viewing,Phone,1,0,1,1,0,0
+R002,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Informatics,7+,Daily,Grade Viewing,Laptop,0,1,0,0,0,0
+R003,3,4,4,5,4,4,4,3,3,4,4,5,3,4,3,4,4,3,4,3,4,4,Male,Informatics,5,Several times per month,Class Schedule,Phone,1,0,0,0,0,0
+R004,3,5,2,3,2,3,3,3,3,4,4,3,3,4,4,4,4,4,3,3,4,3,Female,Informatics,3,Daily,Class Schedule,Laptop,1,1,0,0,0,0
+R005,4,5,5,4,5,5,4,5,5,5,4,4,5,5,5,4,4,5,5,5,5,5,Male,Informatics,7+,Several times per week,Other,Tablet or multiple,1,0,1,1,0,0
+R006,5,5,4,4,4,2,5,5,4,5,5,5,5,4,5,4,5,5,5,4,5,5,Male,Informatics,5,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R007,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,3,Several times per week,Class Schedule,Phone,0,0,1,0,0,0
+R008,5,5,5,5,5,4,5,5,4,4,5,5,5,4,5,5,4,5,5,5,5,5,Female,Informatics,3,Several times per week,Grade Viewing,Phone,1,0,0,0,0,0
+R009,3,4,4,4,2,4,3,3,3,3,3,4,3,5,5,5,5,5,4,4,4,4,Male,Informatics,3,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R010,4,5,2,3,4,5,5,5,2,4,3,5,5,5,4,4,4,4,5,4,4,5,Male,Informatics,3,Several times per week,Course Registration,Laptop,0,1,1,0,0,0
+R011,5,3,5,3,2,5,5,5,2,5,5,5,5,4,5,5,5,5,4,4,5,5,Female,Informatics,3,Daily,Class Schedule,Laptop,1,1,0,0,0,0
+R012,3,4,4,3,4,2,4,4,2,3,5,5,4,4,4,4,4,5,4,4,5,5,Male,Informatics,3,Daily,Class Schedule,Phone,0,0,0,0,1,0
+R013,4,3,2,3,3,2,3,3,3,3,4,4,2,4,3,4,4,3,3,3,4,2,Male,Informatics,3,Several times per week,Class Schedule,Phone,0,1,0,0,0,0
+R014,5,5,1,1,1,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Informatics,3,Daily,Class Schedule,Laptop,1,1,0,0,0,0
+R015,3,2,3,4,4,4,5,4,3,5,3,4,4,5,4,4,3,3,3,3,3,4,Male,Informatics,3,Several times per week,Course Registration,Phone,1,0,0,0,0,0
+R016,4,4,3,3,3,4,3,4,3,3,3,4,3,3,3,3,3,3,4,4,4,5,Male,Informatics,3,Several times per month,Grade Viewing,Phone,1,0,0,1,0,0
+R017,3,4,5,4,4,4,5,4,4,3,4,5,5,4,4,4,4,4,5,4,4,4,Male,Informatics,3,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R018,5,4,3,3,5,5,5,5,5,5,4,5,5,3,5,3,4,5,5,5,5,5,Male,Informatics,3,Several times per week,Class Schedule,Phone,0,0,0,1,0,0
+R019,3,3,4,3,5,2,5,5,3,3,4,4,2,3,2,2,3,4,4,4,3,3,Male,Informatics,3,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R020,5,5,1,5,5,1,5,5,1,1,1,3,5,1,5,5,3,1,5,3,3,5,Male,Informatics,3,Daily,Class Schedule,Phone,1,1,1,0,0,0
+R021,5,3,4,5,4,5,4,5,3,4,5,4,2,5,5,5,5,5,4,5,5,5,Male,Informatics,3,Several times per week,Class Schedule,Phone,0,0,0,1,0,0
+R022,4,4,4,4,4,3,5,4,4,4,4,5,4,4,5,4,5,4,4,4,4,5,Male,Informatics,3,Several times per month,Class Schedule,Phone,0,0,0,1,0,0
+R023,4,4,3,4,4,4,5,5,4,4,4,5,4,5,4,4,5,5,5,4,4,4,Female,Informatics,3,Several times per week,Class Schedule,PC,1,0,0,0,0,0
+R024,4,4,5,4,3,3,4,4,3,3,3,3,4,4,4,4,5,5,4,5,5,5,Male,Informatics,3,Several times per week,Grade Viewing,Laptop,1,0,0,0,0,0
+R025,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,3,Daily,Grade Viewing,Laptop,1,0,0,0,0,0
+R026,5,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,3,Several times per week,Class Schedule,Phone,0,0,0,0,0,1
+R027,4,2,4,2,1,2,3,5,4,4,3,4,5,2,4,3,3,5,5,3,5,5,Male,Informatics,5,Rarely,Course Registration,Laptop,0,1,0,1,0,0
+R028,5,4,4,4,4,4,4,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,5,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R029,5,4,2,4,5,5,5,5,2,1,4,4,5,5,5,5,5,5,5,5,5,5,Male,Informatics,3,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R030,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,Male,Informatics,3,Several times per week,Class Schedule,PC,0,1,0,1,0,0
+R031,5,5,5,5,5,4,4,4,4,4,5,5,5,4,4,4,5,4,5,5,5,5,Male,Informatics,3,Daily,Class Schedule,Phone,0,1,0,1,0,0
+R032,4,3,4,3,4,4,4,4,4,4,3,3,3,4,4,5,5,4,4,4,4,4,Male,Informatics,3,Daily,Class Schedule,Phone,1,0,1,0,0,0
+R033,3,3,5,2,5,3,4,5,5,5,5,5,5,5,5,5,5,5,3,3,3,3,Male,Informatics,3,Several times per week,Class Schedule,Phone,1,1,1,0,0,0
+R034,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,3,Several times per week,Class Schedule,Phone,0,0,0,0,0,1
+R035,4,4,4,4,4,4,3,5,3,4,3,4,5,4,3,3,4,4,4,4,4,4,Male,Informatics,3,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R036,5,5,5,3,3,4,5,5,4,4,3,4,4,4,3,3,3,4,4,4,4,5,Male,Informatics,3,Several times per week,Grade Viewing,Phone,1,0,0,0,0,0
+R037,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,3,Several times per week,Class Schedule,Phone,0,0,0,0,0,1
+R038,4,5,4,2,5,5,3,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,3,Several times per week,Class Schedule,Phone,0,1,1,0,1,0
+R039,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,3,Daily,Course Registration,Phone,1,1,1,1,1,0
+R040,4,4,3,5,4,5,4,4,3,4,4,5,5,4,4,5,4,4,5,5,5,5,Male,Informatics,3,Daily,Grade Viewing,Phone,1,1,1,0,0,0
+R041,4,5,5,4,5,4,4,5,5,4,4,4,5,4,4,4,5,3,4,5,5,5,Male,Informatics,3,Several times per week,Class Schedule,Phone,0,0,0,0,0,1
+R042,4,3,3,4,2,3,3,4,3,3,3,4,4,4,2,3,2,2,3,4,4,4,Male,Informatics,3,Rarely,Course Registration,Phone,1,0,0,0,0,0
+R043,4,3,4,3,2,3,4,4,2,5,4,3,1,3,2,2,3,4,4,3,4,4,Male,Informatics,3,Rarely,Class Schedule,Phone,1,1,0,0,0,0
+R044,4,5,4,4,2,4,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,3,Several times per week,Class Schedule,Phone,0,1,0,0,0,0
+R045,2,2,2,3,2,2,3,2,4,3,2,3,2,5,2,4,2,3,5,5,5,4,Male,Informatics,3,Rarely,Grade Viewing,Phone,1,1,0,0,0,0
+R046,5,4,5,5,4,4,5,3,4,4,5,5,4,4,3,4,4,4,5,5,5,4,Male,Informatics,3,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R047,3,4,4,3,3,3,4,4,3,4,3,4,4,4,4,2,3,3,4,4,4,4,Male,Informatics,7+,Several times per month,Course Registration,Phone,1,0,0,0,0,0
+R048,5,5,5,5,1,5,3,5,3,5,4,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,5,Daily,Class Schedule,Laptop,0,0,0,0,0,1
+R049,5,5,5,5,5,5,5,5,4,4,4,5,4,3,3,3,4,4,5,4,4,5,Female,Other programs,5,Several times per week,Course Registration,Phone,1,1,0,0,1,0
+R050,5,5,4,4,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,5,Rarely,Course Registration,Laptop,1,0,0,0,0,0
+R051,3,4,3,4,3,4,4,4,2,3,3,2,3,3,3,3,3,3,4,3,3,3,Male,Informatics,5,Several times per week,Course Registration,Laptop,0,1,0,0,0,0
+R052,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,4,4,5,5,5,5,5,Female,Informatics,5,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R053,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,4,5,5,5,5,5,5,Male,Other programs,1,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R054,3,3,3,2,4,4,4,3,2,3,3,4,1,4,4,4,4,4,4,4,5,3,Male,Other programs,5,Daily,Class Schedule,Phone,1,1,1,0,0,0
+R055,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Informatics,3,Several times per week,Grade Viewing,Laptop,0,1,0,1,0,0
+R056,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,4,Female,Other programs,2,Several times per month,Grade Viewing,PC,1,0,0,0,0,0
+R057,1,3,3,5,3,3,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,Female,Other programs,1,Daily,Class Schedule,Phone,0,0,0,0,1,0
+R058,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,5,5,4,Male,Other programs,1,Several times per month,Other,Laptop,1,0,0,0,0,0
+R059,4,4,4,4,4,4,4,4,5,4,3,4,4,4,5,4,4,4,5,4,4,4,Male,Informatics,5,Daily,Class Schedule,Phone,0,1,0,0,0,0
+R060,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Other programs,1,Several times per week,Class Schedule,PC,1,0,0,0,0,0
+R061,1,1,1,1,1,2,2,1,1,1,1,1,1,2,2,2,1,2,2,1,2,2,Female,Other programs,2,Several times per week,Course Registration,PC,1,0,0,0,0,0
+R062,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Other programs,1,Rarely,Grade Viewing,Laptop,0,0,0,0,0,1
+R063,4,4,4,4,4,4,4,5,4,4,5,4,4,4,4,4,3,4,4,3,4,4,Male,Other programs,3,Several times per month,Grade Viewing,Phone,0,0,0,1,0,0
+R064,4,3,5,3,5,2,4,5,5,2,5,5,4,3,3,4,3,3,5,5,5,5,Male,Informatics,5,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R065,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,Female,Other programs,3,Several times per month,Payment,Laptop,0,0,0,0,0,1
+R066,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Other programs,1,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R067,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,3,3,3,3,Female,Other programs,2,Several times per week,Class Schedule,Laptop,0,0,0,0,0,1
+R068,4,5,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Other programs,3,Several times per week,Class Schedule,Laptop,0,0,0,0,1,0
+R069,5,4,4,4,5,5,4,5,4,4,4,4,5,4,4,4,4,4,5,4,5,5,Male,Other programs,2,Several times per month,Grade Viewing,Laptop,1,0,0,0,0,0
+R070,4,3,4,3,3,5,5,4,4,3,4,4,5,4,4,4,4,4,5,4,5,5,Male,Other programs,1,Several times per week,Class Schedule,Laptop,0,0,0,0,0,1
+R071,3,4,5,5,4,4,4,4,4,4,4,4,4,4,3,4,5,4,5,4,5,5,Female,Other programs,5,Daily,Class Schedule,Laptop,0,1,0,0,0,0
+R072,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Other programs,1,Several times per month,Class Schedule,Laptop,1,0,0,0,0,0
+R073,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Other programs,1,Several times per week,Class Schedule,Laptop,1,0,0,0,0,0
+R074,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,Male,Other programs,2,Rarely,Grade Viewing,Laptop,0,1,0,0,0,0
+R075,5,4,4,4,3,3,3,3,3,3,3,3,3,3,3,4,3,4,4,4,4,4,Male,Other programs,1,Rarely,Course Registration,Laptop,1,0,0,0,0,0
+R076,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Other programs,2,Rarely,Payment,Laptop,0,1,0,0,0,0
+R077,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Other programs,2,Rarely,Other,Laptop,1,0,0,0,0,0
+R078,3,3,3,3,3,2,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,Male,Informatics,3,Several times per week,Class Schedule,Phone,1,1,0,1,0,0
+R079,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Other programs,1,Rarely,Other,Laptop,0,0,0,1,0,0
+R080,4,4,5,4,5,5,5,5,4,4,5,5,5,4,4,4,4,4,5,5,5,4,Male,Other programs,4,Several times per week,Payment,Laptop,0,1,0,0,0,0
+R081,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Other programs,2,Several times per month,Class Schedule,Laptop,0,0,0,0,0,1
+R082,5,5,5,5,4,4,5,4,5,4,5,4,4,5,5,4,5,5,5,4,5,5,Male,Informatics,5,Daily,Class Schedule,Phone,1,1,0,0,0,0
+R083,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,5,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R084,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Other programs,4,Several times per week,Payment,Laptop,1,0,0,0,0,0
+R085,4,5,4,4,5,4,3,5,4,5,5,4,5,5,3,5,4,4,4,4,3,4,Female,Informatics,3,Several times per week,Course Registration,Phone,1,0,0,0,0,0
+R086,5,5,5,5,5,5,5,5,2,2,5,5,2,3,3,3,3,3,5,4,5,5,Female,Informatics,3,Daily,Grade Viewing,Laptop,0,1,1,0,0,0
+R087,5,5,5,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,Female,Informatics,3,Daily,Class Schedule,PC,1,1,0,0,0,0
+R088,4,4,4,3,4,3,4,4,3,3,3,4,4,5,4,4,3,4,4,3,4,3,Female,Informatics,3,Several times per week,Class Schedule,Laptop,0,0,0,1,0,0
+R089,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Informatics,7+,Rarely,Other,Phone,1,1,1,0,1,0
+R090,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,3,Daily,Course Registration,PC,1,0,0,0,0,0
+R091,4,4,4,4,5,4,5,5,4,3,3,4,5,3,5,4,4,3,4,3,3,3,Male,Other programs,1,Several times per week,Class Schedule,Laptop,0,0,0,0,1,0
+R092,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Other programs,1,Several times per month,Class Schedule,Laptop,0,0,0,0,0,1
+R093,5,5,5,5,5,5,5,5,5,4,4,5,4,5,5,5,5,5,5,5,5,5,Female,Informatics,4,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R094,5,5,5,4,2,5,4,5,4,3,4,5,5,5,5,5,4,3,5,5,5,5,Female,Informatics,4,Several times per month,Grade Viewing,PC,1,1,0,0,0,0
+R095,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,2,Daily,Class Schedule,Phone,0,0,0,0,0,1
+R096,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,2,Several times per week,Class Schedule,PC,1,0,0,0,0,0
+R097,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,2,Several times per week,Grade Viewing,PC,1,0,0,0,0,0
+R098,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,2,Several times per week,Class Schedule,Laptop,1,0,0,0,0,0
+R099,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,2,Several times per month,Grade Viewing,Phone,0,1,0,0,0,0
+R100,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,2,Several times per week,Class Schedule,PC,1,0,0,0,0,0
+R101,2,3,5,2,5,3,1,4,4,2,4,2,5,2,4,1,4,2,3,4,1,5,Male,Information Systems,2,Rarely,Class Schedule,Laptop,1,0,0,0,0,0
+R102,4,4,4,4,3,4,3,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Information Systems,2,Several times per week,Payment,Phone,0,0,0,1,0,0
+R103,4,4,4,4,4,4,4,4,5,5,5,5,5,4,4,4,4,4,4,4,4,4,Female,Information Systems,2,Rarely,Grade Viewing,Phone,0,1,0,0,0,0
+R104,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Information Systems,2,Daily,Grade Viewing,Tablet or multiple,0,0,0,1,0,0
+R105,3,5,3,3,3,3,3,3,5,5,3,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,2,Several times per week,Payment,Laptop,1,0,0,0,0,0
+R106,3,3,3,3,3,3,4,5,4,3,3,4,4,4,3,3,3,3,4,3,3,3,Male,Information Systems,2,Several times per week,Class Schedule,Phone,0,0,0,1,0,0
+R107,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Payment,PC,1,0,0,0,0,0
+R108,3,4,4,4,4,4,3,3,4,4,4,4,3,4,3,4,4,4,3,3,3,3,Female,Informatics,4,Several times per week,Class Schedule,Phone,0,1,0,0,0,0
+R109,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Course Registration,Phone,1,0,0,0,0,0
+R110,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Informatics,4,Several times per week,Course Registration,Laptop,0,0,0,0,0,1
+R111,4,4,4,4,3,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,2,Several times per week,Class Schedule,PC,1,0,0,0,0,0
+R112,2,2,5,3,4,2,3,5,1,3,2,2,3,3,2,3,2,5,2,2,5,5,Male,Informatics,4,Several times per week,Course Registration,Phone,1,1,0,1,1,0
+R113,5,4,5,3,3,4,5,5,5,4,5,5,5,5,5,5,5,5,2,5,3,5,Female,Informatics,4,Several times per month,Course Registration,Phone,1,1,0,0,0,0
+R114,3,4,3,3,3,4,4,4,4,5,4,4,3,3,4,3,4,4,5,5,5,5,Female,Informatics,4,Daily,Grade Viewing,Phone,1,1,0,0,0,0
+R115,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,4,Several times per week,Course Registration,Laptop,1,1,0,0,0,0
+R116,3,3,2,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Informatics,4,Rarely,Grade Viewing,Laptop,0,0,0,0,1,0
+R117,4,5,4,2,3,2,3,5,4,2,3,4,3,3,3,2,3,4,3,3,4,5,Male,Informatics,4,Daily,Course Registration,Phone,0,0,0,0,1,0
+R118,5,4,5,5,4,5,5,5,3,5,4,4,4,4,4,4,4,4,4,5,5,5,Female,Informatics,4,Daily,Course Registration,Laptop,1,0,0,0,0,0
+R119,5,5,5,4,5,5,5,5,2,5,4,5,3,5,5,5,5,5,5,5,5,5,Female,Informatics,4,Several times per week,Class Schedule,Laptop,0,1,0,0,0,0
+R120,5,4,5,4,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Informatics,4,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R121,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Informatics,4,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R122,4,4,4,4,4,4,4,4,4,3,4,4,3,2,3,3,3,4,4,4,4,4,Male,Informatics,4,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R123,4,4,4,4,4,4,3,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,Male,Informatics,4,Daily,Class Schedule,Phone,0,1,0,0,0,0
+R124,4,4,4,3,4,3,4,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4,Female,Informatics,4,Several times per week,Class Schedule,Tablet or multiple,0,1,0,0,0,0
+R125,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,5,3,3,4,4,Male,Informatics,4,Several times per week,Course Registration,Phone,1,0,0,0,0,0
+R126,4,4,4,4,4,4,4,5,4,3,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,4,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R127,5,5,5,5,5,5,5,5,4,4,4,4,5,4,4,5,5,4,4,4,4,4,Male,Informatics,4,Several times per week,Class Schedule,Phone,0,0,0,1,0,0
+R128,5,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Daily,Class Schedule,Phone,0,0,1,0,0,0
+R129,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,Male,Informatics,4,Daily,Course Registration,Laptop,1,1,1,1,1,0
+R130,5,5,5,5,1,5,5,5,1,5,5,5,1,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R131,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Class Schedule,Phone,1,1,0,0,0,0
+R132,2,2,1,2,1,2,1,2,2,1,2,1,1,2,2,1,2,2,2,2,2,2,Male,Informatics,4,Daily,Grade Viewing,Tablet or multiple,0,0,1,0,0,0
+R133,2,3,2,2,4,3,3,4,1,4,4,3,3,3,3,3,3,3,3,4,2,3,Female,Informatics,4,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R134,5,5,5,5,5,5,5,5,3,4,5,5,1,5,5,4,5,5,5,5,5,5,Female,Informatics,4,Daily,Class Schedule,Phone,1,1,0,0,0,0
+R135,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Informatics,4,Several times per week,Class Schedule,Laptop,1,1,0,1,0,0
+R136,5,5,4,5,5,4,5,5,4,5,5,5,5,5,5,5,5,5,5,4,5,5,Male,Informatics,4,Daily,Class Schedule,Phone,0,0,0,0,0,1
+R137,3,5,5,5,5,4,4,5,5,4,4,5,5,5,5,5,5,5,5,5,5,5,Female,Informatics,4,Daily,Class Schedule,Phone,0,1,0,0,0,0
+R138,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Informatics,4,Daily,Class Schedule,Phone,0,0,1,0,0,0
+R139,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Informatics,4,Several times per month,Grade Viewing,Phone,1,0,0,0,0,0
+R140,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Grade Viewing,Phone,1,0,0,0,0,0
+R141,4,4,5,5,4,4,4,5,4,4,3,5,5,4,3,4,4,5,5,5,4,5,Female,Informatics,4,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R142,5,4,4,4,4,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Informatics,4,Several times per week,Course Registration,Phone,0,0,0,1,0,0
+R143,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Rarely,Course Registration,Phone,1,1,0,0,0,0
+R144,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Informatics,4,Several times per week,Class Schedule,Phone,0,1,0,0,0,0
+R145,4,5,4,5,4,4,4,5,4,5,4,4,5,5,4,4,4,4,5,4,5,5,Male,Informatics,4,Several times per week,Grade Viewing,Laptop,0,0,0,1,0,0
+R146,3,2,3,4,2,2,3,4,4,3,3,4,3,2,3,3,2,3,3,4,4,4,Male,Informatics,4,Several times per week,Course Registration,Phone,0,0,0,0,0,1
+R147,2,3,1,1,3,2,4,4,4,4,4,4,4,3,4,3,3,4,4,4,4,4,Male,Informatics,4,Several times per week,Payment,Laptop,1,1,1,1,1,0
+R148,5,5,5,4,4,3,5,5,3,3,5,4,5,4,5,4,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Class Schedule,Phone,1,1,0,0,0,0
+R149,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,4,Several times per week,Grade Viewing,Laptop,1,1,0,0,0,0
+R150,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Informatics,4,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R151,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Payment,Phone,0,0,1,0,0,0
+R152,5,4,4,5,5,4,5,5,5,5,5,4,4,5,5,4,5,5,5,5,5,5,Male,Information Systems,2,Daily,Course Registration,Phone,1,0,0,0,0,0
+R153,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Course Registration,Phone,1,1,0,0,0,0
+R154,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Informatics,4,Several times per week,Payment,Phone,0,0,0,0,1,0
+R155,5,3,2,4,3,4,4,5,5,4,4,5,4,4,5,5,4,5,4,5,5,3,Male,Informatics,7+,Daily,Class Schedule,Phone,0,0,1,0,0,0
+R156,3,4,3,3,4,4,4,3,3,3,4,3,4,3,4,4,4,4,4,4,4,4,Female,Information Systems,6,Several times per week,Payment,Phone,1,1,0,0,0,0
+R157,4,5,5,4,5,4,3,5,4,5,4,4,5,5,4,4,5,4,5,5,5,4,Female,Information Systems,6,Several times per week,Grade Viewing,Phone,0,0,0,1,0,0
+R158,2,3,3,4,4,3,3,5,3,4,3,4,2,4,4,2,2,2,4,4,4,4,Female,Information Systems,6,Several times per month,Course Registration,PC,1,1,0,0,0,0
+R159,3,3,3,4,3,3,3,4,3,3,2,3,4,5,5,5,5,3,4,4,4,3,Female,Information Systems,6,Daily,Class Schedule,Phone,1,0,0,1,0,0
+R160,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,6,Several times per week,Class Schedule,Phone,0,0,1,0,0,0
+R161,3,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,Female,Information Systems,6,Several times per week,Class Schedule,Phone,0,1,0,0,0,0
+R162,4,4,4,3,4,3,4,5,2,4,4,5,2,4,4,4,4,3,5,2,4,3,Female,Information Systems,6,Several times per week,Class Schedule,Phone,0,0,1,0,0,0
+R163,4,5,5,5,5,5,5,5,3,5,4,5,2,5,5,5,5,5,5,5,5,5,Female,Informatics,4,Daily,Class Schedule,Phone,1,1,0,0,0,0
+R164,3,4,5,5,3,2,2,5,3,2,3,3,3,5,3,3,4,4,3,4,3,2,Male,Informatics,4,Daily,Course Registration,Phone,1,0,0,1,1,0
+R165,4,5,4,5,5,5,5,5,4,5,5,5,4,5,5,5,4,5,5,4,5,4,Male,Information Systems,4,Daily,Class Schedule,Laptop,0,0,1,0,0,0
+R166,3,4,4,4,4,3,4,3,4,3,3,4,3,4,4,4,4,4,4,4,4,4,Male,Information Systems,6,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R167,4,3,3,4,3,2,4,4,2,3,3,3,2,3,4,4,4,4,3,4,4,4,Female,Information Systems,6,Several times per week,Class Schedule,Phone,0,1,1,0,0,0
+R168,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,4,Rarely,Course Registration,Phone,1,0,0,0,0,0
+R169,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Information Systems,2,Several times per week,Class Schedule,Phone,0,0,0,1,0,0
+R170,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,6,Several times per week,Class Schedule,Phone,0,0,0,0,0,1
+R171,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,2,Several times per week,Class Schedule,Phone,0,0,0,0,0,1
+R172,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,6,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R173,5,4,5,5,4,4,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,6,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R174,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,Female,Information Systems,6,Several times per week,Course Registration,Laptop,1,0,0,0,0,0
+R175,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,2,Several times per week,Class Schedule,Laptop,1,0,0,0,0,0
+R176,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,2,Several times per week,Course Registration,Laptop,1,0,0,0,1,0
+R177,5,4,3,3,3,4,4,4,4,4,4,4,4,3,3,3,4,4,3,3,4,4,Male,Information Systems,6,Rarely,Class Schedule,Phone,1,0,1,0,0,0
+R178,4,4,4,3,3,3,4,4,4,4,4,4,4,3,3,4,4,4,4,4,3,4,Female,Information Systems,2,Several times per month,Grade Viewing,Phone,0,0,0,1,0,0
+R179,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per month,Payment,Phone,1,0,0,0,0,0
+R180,5,5,5,5,4,5,5,5,5,4,4,5,4,4,5,5,4,5,4,4,4,5,Female,Information Systems,6,Several times per month,Course Registration,Laptop,1,0,0,0,0,0
+R181,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Information Systems,4,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R182,4,4,4,4,5,4,5,4,4,4,3,4,4,4,4,4,5,5,5,5,5,5,Male,Information Systems,2,Several times per week,Course Registration,Phone,1,0,0,0,0,0
+R183,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,2,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R184,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Informatics,4,Several times per week,Class Schedule,Phone,1,0,1,0,0,0
+R185,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Informatics,4,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R186,5,5,5,5,5,5,5,5,5,5,4,5,4,5,4,5,5,5,5,5,5,5,Female,Informatics,4,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R187,5,5,3,1,3,5,5,3,5,1,5,5,5,5,5,5,5,5,5,5,2,5,Male,Other programs,4,Several times per week,Course Registration,Phone,1,1,0,0,1,0
+R188,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Grade Viewing,Laptop,0,0,0,0,0,1
+R189,5,4,4,4,4,4,4,4,3,5,3,3,1,4,4,4,4,4,4,4,4,4,Male,Informatics,4,Several times per week,Class Schedule,Phone,0,1,0,0,0,0
+R190,5,5,5,4,5,5,5,5,3,4,5,5,5,5,5,5,5,5,5,5,4,5,Male,Informatics,4,Several times per week,Class Schedule,Phone,1,1,1,0,0,0
+R191,3,3,3,4,3,4,4,5,4,5,4,4,3,5,3,3,3,3,4,4,5,5,Female,Informatics,4,Several times per week,Course Registration,Phone,1,0,0,0,0,0
+R192,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Course Registration,Phone,1,0,0,0,0,0
+R193,5,4,4,4,3,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,5,5,Female,Informatics,4,Several times per week,Course Registration,Phone,0,0,0,1,0,0
+R194,4,4,4,3,4,3,3,5,3,4,4,4,4,3,4,2,4,4,3,3,4,4,Female,Informatics,4,Several times per week,Course Registration,Phone,0,0,0,0,0,1
+R195,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Grade Viewing,Phone,0,0,0,0,0,1
+R196,3,3,3,4,4,4,4,4,4,4,3,5,3,3,3,4,4,3,5,5,5,5,Female,Informatics,4,Several times per week,Grade Viewing,Phone,1,0,0,0,0,0
+R197,5,4,4,5,3,5,5,5,4,5,5,5,4,3,3,4,4,5,5,5,5,5,Male,Informatics,4,Several times per month,Payment,Phone,0,0,0,1,0,0
+R198,3,3,3,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Informatics,4,Several times per week,Grade Viewing,Phone,1,0,0,0,0,0
+R199,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,4,Several times per month,Class Schedule,Phone,0,1,0,0,0,0
+R200,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Class Schedule,Phone,1,0,1,0,0,0
+R201,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,4,Several times per week,Class Schedule,Phone,0,0,1,0,1,0
+R202,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per month,Grade Viewing,PC,0,0,1,0,0,0
+R203,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,4,Several times per week,Grade Viewing,Phone,1,0,0,0,0,0
+R204,3,3,3,3,3,3,2,3,1,2,2,3,4,4,4,3,4,3,4,4,4,4,Male,Informatics,4,Several times per week,Course Registration,Laptop,1,1,1,1,0,0
+R205,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Informatics,4,Several times per month,Grade Viewing,Phone,0,1,0,0,0,0
+R206,5,5,5,5,5,5,5,5,4,4,5,4,4,5,4,5,4,5,4,5,4,4,Male,Informatics,4,Several times per week,Grade Viewing,PC,1,1,0,0,0,0
+R207,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Class Schedule,Phone,0,0,0,0,0,1
+R208,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Informatics,4,Daily,Class Schedule,Phone,0,1,0,0,0,0
+R209,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Grade Viewing,Laptop,1,1,0,0,0,0
+R210,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,3,3,4,3,3,5,Male,Informatics,4,Rarely,Payment,Phone,0,0,0,1,0,0
+R211,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,Female,Informatics,4,Several times per week,Course Registration,PC,1,1,0,0,0,0
+R212,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Course Registration,PC,1,1,0,0,1,0
+R213,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Informatics,4,Daily,Course Registration,Laptop,1,1,0,0,0,0
+R214,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,4,Several times per week,Class Schedule,Phone,1,1,1,0,0,0
+R215,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Informatics,4,Rarely,Course Registration,Phone,0,0,0,1,0,0
+R216,4,4,4,5,5,4,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4,4,Male,Informatics,2,Daily,Course Registration,Phone,1,1,0,0,0,0
+R217,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,Male,Informatics,4,Several times per week,Grade Viewing,Phone,1,0,0,0,0,0
+R218,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Informatics,4,Daily,Course Registration,Phone,0,1,0,1,0,0
+R219,4,4,4,3,4,3,4,3,3,3,4,4,3,3,4,3,4,4,3,3,4,3,Female,Information Systems,4,Several times per week,Grade Viewing,Laptop,0,1,0,0,0,0
+R220,4,4,4,4,4,4,4,4,2,2,2,3,3,3,3,3,3,3,4,4,4,4,Male,Information Systems,7+,Several times per week,Course Registration,Phone,0,0,1,1,0,0
+R221,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Several times per month,Payment,Phone,1,0,0,0,0,0
+R222,5,5,5,4,1,5,5,5,3,4,2,4,2,5,5,5,5,5,4,5,5,4,Male,Information Systems,4,Several times per week,Class Schedule,PC,1,0,0,0,0,0
+R223,5,5,4,3,4,5,4,4,4,3,4,5,5,4,3,4,4,4,5,5,5,5,Male,Information Systems,6,Several times per week,Course Registration,PC,1,0,1,0,0,0
+R224,5,5,5,5,5,5,5,5,3,4,5,3,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Daily,Class Schedule,Phone,0,0,0,1,0,0
+R225,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Several times per week,Course Registration,Laptop,0,0,0,1,0,0
+R226,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Information Systems,4,Daily,Course Registration,Laptop,1,0,0,0,0,0
+R227,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Several times per week,Class Schedule,Laptop,1,0,0,0,0,0
+R228,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Information Systems,4,Several times per month,Payment,Phone,1,0,0,0,1,0
+R229,5,5,4,5,5,5,5,5,4,4,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R230,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Daily,Class Schedule,Laptop,1,0,0,0,0,0
+R231,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Daily,Course Registration,Phone,0,1,0,0,0,0
+R232,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Several times per week,Course Registration,Laptop,1,0,1,0,0,0
+R233,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Several times per week,Grade Viewing,Phone,0,1,0,0,0,0
+R234,4,3,2,4,3,2,4,4,3,3,4,4,4,4,3,3,4,3,4,4,4,4,Female,Information Systems,4,Daily,Grade Viewing,Phone,0,1,0,1,0,0
+R235,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Several times per week,Class Schedule,Laptop,0,1,0,0,0,0
+R236,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Several times per week,Course Registration,Phone,0,1,0,0,0,0
+R237,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Information Systems,6,Rarely,Course Registration,Laptop,1,0,1,1,0,0
+R238,4,4,4,4,4,5,5,5,5,4,4,5,5,4,4,4,4,5,4,4,4,4,Female,Information Systems,4,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R239,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Male,Information Systems,4,Several times per week,Grade Viewing,Laptop,0,1,0,0,1,0
+R240,3,3,4,4,3,3,3,3,3,3,3,3,3,4,4,4,4,4,3,3,3,3,Female,Information Systems,4,Several times per week,Course Registration,Laptop,1,1,0,0,0,0
+R241,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per week,Grade Viewing,Phone,1,1,1,1,1,0
+R242,4,3,4,5,4,4,4,5,4,4,3,4,4,4,3,4,2,2,4,4,4,4,Male,Information Systems,4,Rarely,Class Schedule,Laptop,1,0,0,0,0,0
+R243,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Information Systems,4,Daily,Course Registration,Phone,0,0,1,0,0,0
+R244,4,4,4,4,4,5,5,5,5,4,4,4,4,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Several times per week,Grade Viewing,Phone,1,1,0,0,0,0
+R245,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Daily,Class Schedule,Laptop,0,1,0,0,0,0
+R246,5,5,5,5,5,5,5,5,4,4,4,3,4,4,4,4,4,3,5,5,5,5,Female,Information Systems,4,Several times per week,Course Registration,Laptop,0,0,0,1,0,0
+R247,5,5,4,4,3,4,4,5,5,4,5,4,5,4,5,5,5,5,5,4,5,5,Male,Information Systems,4,Daily,Class Schedule,Phone,0,0,0,0,0,1
+R248,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Several times per week,Class Schedule,Laptop,1,1,0,0,0,0
+R249,4,5,4,4,4,5,4,5,4,4,4,4,5,4,4,3,4,4,4,4,4,4,Male,Information Systems,4,Several times per week,Class Schedule,Laptop,1,0,1,0,0,0
+R250,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Information Systems,4,Several times per week,Class Schedule,Phone,1,1,0,0,0,0
+R251,4,4,4,5,4,4,4,5,4,4,4,4,3,4,4,4,4,4,4,5,5,5,Female,Information Systems,4,Several times per week,Course Registration,Phone,0,0,0,0,0,1
+R252,2,1,1,1,1,1,5,5,1,5,5,4,1,3,1,2,2,5,5,5,5,5,Female,Information Systems,4,Daily,Course Registration,Laptop,1,1,0,0,0,0
+R253,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Daily,Other,PC,1,1,1,1,1,0
+R254,4,5,5,4,4,5,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,Male,Information Systems,6,Several times per week,Grade Viewing,Laptop,1,1,0,1,0,0
+R255,4,5,4,4,4,4,5,5,4,5,5,5,5,5,5,5,5,4,5,5,5,5,Female,Information Systems,4,Several times per week,Grade Viewing,Phone,1,0,0,0,0,0
+R256,5,4,4,4,5,5,5,5,5,5,3,5,3,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per week,Class Schedule,Phone,0,0,0,0,1,0
+R257,4,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Rarely,Course Registration,Laptop,0,0,1,0,0,0
+R258,4,3,4,3,4,3,4,3,3,4,4,4,4,3,5,5,5,4,3,4,4,3,Female,Information Systems,4,Several times per week,Payment,Laptop,0,1,0,0,0,0
+R259,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Information Systems,4,Several times per week,Grade Viewing,Phone,1,0,1,0,1,0
+R260,5,5,5,4,5,5,4,5,4,5,4,5,5,4,5,4,5,4,5,5,5,5,Male,Information Systems,4,Daily,Class Schedule,Laptop,0,0,1,0,0,0
+R261,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Several times per week,Grade Viewing,Tablet or multiple,0,0,0,0,0,1
+R262,5,4,4,4,3,4,5,4,4,5,4,5,4,4,4,4,4,3,4,4,4,4,Female,Information Systems,4,Several times per week,Course Registration,Phone,1,0,0,0,0,0
+R263,4,3,4,3,3,4,4,4,3,3,3,4,3,3,4,4,3,3,3,3,3,4,Female,Information Systems,4,Daily,Class Schedule,Phone,0,1,0,0,0,0
+R264,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Daily,Class Schedule,Phone,1,0,0,0,1,0
+R265,3,2,5,2,3,3,4,5,3,2,3,3,3,3,3,3,5,4,5,5,5,5,Male,Information Systems,4,Several times per week,Grade Viewing,Laptop,0,1,0,0,0,0
+R266,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,6,Daily,Class Schedule,Tablet or multiple,1,1,1,1,1,0
+R267,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,6,Several times per month,Course Registration,Laptop,0,0,1,0,0,0
+R268,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Information Systems,4,Several times per month,Payment,PC,0,1,1,0,1,0
+R269,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Daily,Class Schedule,Phone,1,1,0,0,0,0
+R270,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R271,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Daily,Class Schedule,Phone,1,0,0,0,0,0
+R272,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Rarely,Payment,Phone,1,0,0,0,0,0
+R273,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Daily,Course Registration,Phone,0,0,0,0,0,1
+R274,4,4,4,4,4,4,4,4,3,3,3,5,3,4,4,4,4,4,5,5,5,5,Female,Information Systems,4,Several times per week,Course Registration,Laptop,0,1,0,0,0,0
+R275,2,4,4,2,4,3,2,5,2,1,2,3,1,4,4,4,4,2,4,3,3,4,Female,Information Systems,4,Several times per week,Class Schedule,Phone,1,1,1,0,0,0
+R276,3,2,2,2,2,2,2,2,2,2,2,2,2,2,3,2,2,5,2,2,2,5,Male,Information Systems,4,Several times per week,Grade Viewing,Phone,1,0,1,1,1,0
+R277,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Information Systems,4,Several times per week,Grade Viewing,PC,0,1,0,1,0,0
+R278,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per week,Class Schedule,Phone,0,1,0,0,0,0
+R279,5,5,5,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Several times per week,Course Registration,Laptop,1,0,0,0,0,0
+R280,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Information Systems,4,Several times per week,Grade Viewing,Laptop,1,1,0,0,0,0
+R281,2,4,2,2,4,1,4,5,4,4,4,4,1,4,4,2,4,2,4,4,4,4,Female,Information Systems,4,Daily,Class Schedule,Phone,0,1,0,0,0,0
+R282,3,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Several times per week,Grade Viewing,Phone,0,0,0,1,0,0
+R283,5,4,5,5,5,5,5,5,5,5,4,4,4,4,5,4,5,4,5,5,5,5,Male,Information Systems,6,Daily,Class Schedule,Phone,1,1,0,0,0,0
+R284,5,4,5,4,4,4,4,5,2,4,4,4,4,4,4,4,5,4,4,4,3,5,Female,Information Systems,4,Several times per week,Course Registration,Phone,1,0,1,0,0,0
+R285,2,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Daily,Course Registration,Phone,1,1,0,0,0,0
+R286,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Several times per month,Grade Viewing,PC,1,1,1,0,0,0
+R287,5,5,5,5,5,5,5,5,3,5,5,5,5,5,4,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per month,Grade Viewing,Laptop,0,0,0,0,0,1
+R288,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per week,Course Registration,Phone,0,1,0,0,0,0
+R289,4,3,4,4,4,2,4,4,3,4,4,3,3,3,4,3,4,4,4,4,4,4,Female,Information Systems,4,Several times per week,Course Registration,Laptop,1,0,0,0,0,0
+R290,4,4,4,4,4,4,4,4,3,4,3,4,3,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Several times per week,Class Schedule,PC,0,1,0,0,0,0
+R291,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Several times per week,Grade Viewing,Laptop,1,1,1,1,1,0
+R292,4,4,4,4,4,4,4,4,3,4,4,4,4,5,4,4,4,4,4,4,4,3,Female,Information Systems,4,Several times per month,Payment,Laptop,1,0,0,1,0,0
+R293,3,5,3,5,5,5,3,5,5,5,5,3,5,3,5,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per week,Course Registration,Laptop,0,0,1,1,0,0
+R294,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Several times per week,Course Registration,Laptop,1,0,0,0,1,0
+R295,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Rarely,Grade Viewing,Laptop,0,0,0,1,0,0
+R296,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Daily,Class Schedule,Laptop,0,0,1,0,0,0
+R297,3,3,3,4,3,3,3,3,4,3,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Several times per month,Course Registration,Phone,0,0,0,0,0,1
+R298,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Information Systems,6,Daily,Class Schedule,Laptop,1,0,0,0,0,0
+R299,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per week,Class Schedule,Phone,0,0,0,0,1,0
+R300,5,5,5,5,5,5,5,5,5,3,5,5,3,3,3,3,3,3,3,3,3,3,Female,Information Systems,4,Several times per week,Payment,Laptop,0,1,0,1,0,0
+R301,4,4,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Daily,Class Schedule,Phone,0,0,0,0,0,1
+R302,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Male,Information Systems,4,Several times per week,Class Schedule,Laptop,1,0,0,0,0,0
+R303,4,4,4,4,4,4,4,4,4,3,4,3,2,3,4,4,4,4,4,4,4,4,Female,Information Systems,4,Several times per week,Class Schedule,Phone,1,0,0,0,0,0
+R304,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Female,Information Systems,4,Daily,Class Schedule,PC,1,0,0,0,0,0
+R305,3,3,3,3,3,3,3,3,3,3,3,3,3,4,3,3,3,5,3,3,3,3,Male,Information Systems,4,Several times per month,Class Schedule,Laptop,1,0,0,0,0,0
+R306,4,3,4,3,3,3,4,4,3,3,4,4,4,3,4,4,3,4,3,4,3,3,Female,Information Systems,4,Several times per week,Class Schedule,PC,1,0,1,0,0,0
+R307,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,3,4,5,5,4,5,5,Male,Information Systems,4,Several times per week,Class Schedule,Laptop,1,0,0,0,0,0
+R308,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,6,Several times per month,Grade Viewing,Laptop,0,1,0,0,0,0
+R309,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per month,Class Schedule,Laptop,1,0,0,0,0,0
+R310,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Female,Information Systems,4,Several times per week,Course Registration,Phone,0,0,0,0,0,1
+R311,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,4,5,3,4,4,4,Male,Information Systems,4,Several times per month,Class Schedule,Laptop,1,0,0,0,0,0
+R312,4,4,5,5,5,5,5,5,3,3,5,5,5,4,4,3,3,4,4,4,4,4,Female,Information Systems,4,Rarely,Course Registration,Laptop,1,1,0,0,0,0
+R313,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Female,Information Systems,4,Several times per month,Class Schedule,Phone,1,1,1,0,0,0
+R314,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Male,Information Systems,4,Several times per week,Grade Viewing,PC,1,0,0,0,0,0

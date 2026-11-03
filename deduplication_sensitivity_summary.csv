@@ -1,0 +1,7 @@
+treatment,n_respondents,less_satisfied_share_pct,moderately_satisfied_share_pct,highly_satisfied_share_pct,boundary_low,boundary_high,ari_vs_overall_score_solution
+"Main analysis: most recent entry per student",314,17.2,42.4,40.4,3.60,4.44,1.000
+"Keep all entries",401,17.0,42.9,40.1,3.59,4.46,0.991
+"Keep earliest entry per student",314,18.8,42.0,39.2,3.60,4.42,0.978
+"Exclude 25 groups without semester progress",289,16.3,NA,NA,NA,NA,0.979
+"Exclude all 59 students with several entries",255,18.4,NA,NA,NA,NA,0.916
+"200 random draws of one entry per student (range of ARI)",314,NA,NA,NA,NA,NA,"0.91 to 1.00"

@@ -1,0 +1,17 @@
+category counts per item (1..5), min/max: 0 smallest cell
+min eigenvalue polychoric: 0.047
+4-factor ULS converged: True | Optimization terminated successfully | n_it 65
+
+[ULS] 4-factor: SRMR(poly) 0.051, max|resid| 0.135; chi2 382.2 df 203.0 CFI 0.997 TLI 0.997 RMSEA 0.053  (naive, unscaled)
+standardized loadings range: 0.765 - 0.893 | items with std loading >1: 0
+  latent corr CC-EC: 0.985
+  latent corr CC-EF: 0.999
+  latent corr CC-ST: 1.000
+  latent corr EC-ST: 0.996
+  latent corr EF-EC: 1.020
+  latent corr EF-ST: 0.998
+  min residual variance (Heywood if <0): 0.203
+1-factor ULS converged: True | Optimization terminated successfully | n_it 52
+
+[ULS] 1-factor: SRMR(poly) 0.052, max|resid| 0.142; chi2 386.8 df 209.0 CFI 0.997 TLI 0.997 RMSEA 0.052  (naive, unscaled)
+standardized loadings range: 0.766 - 0.891 | items with std loading >1: 0

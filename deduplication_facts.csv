@@ -1,0 +1,11 @@
+fact,value
+"students with two to five entries",59
+"responses belonging to those students",146
+"groups where the later entry showed a semester one higher",34
+"groups with the same semester at both entries",25
+"of these, submitted on the same day",7
+"of these, submitted up to 70 days apart",18
+"groups reporting two different genders",1
+"agreement of repeat entries of the same student (ICC)",0.49
+"pairs of near-identical names found by similarity search (possible undetected duplicates)",5
+"retained responses in those pairs",10

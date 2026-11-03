@@ -1,0 +1,85 @@
+['REG1', 'REG2', 'REG3', 'REG4', 'REG5', 'REG6', 'REG7', 'REG8', 'GRD1', 'GRD2', 'GRD3', 'GRD4', 'GRD5', 'SCH1', 'SCH2', 'SCH3', 'SCH4', 'SCH5', 'PAY1', 'PAY2', 'PAY3', 'PAY4']
+KMO 0.958 Bartlett 6396.33 0.0
+eig [13.461  1.224  0.997  0.757  0.652  0.589] prop [61.2  5.6  4.5]
+PA95 [1.597 1.48  1.403 1.343] PAmean [1.507 1.419 1.354 1.297] n factors (95th): 1 (mean): 1
+PA perm 95 [1.597 1.48  1.406 1.342] n factors 1
+MAP [0.3559 0.0269 0.0248 0.022  0.0233 0.0259 0.0287 0.0322 0.036  0.043 ] min at 3
+
+ 1 factors None communalities range 0.48 0.72 mean 0.612
+var explained (SS loadings, prop, cum): [array([13.461]), array([0.612]), array([0.612])]
+         0    h2  mod char
+REG1 -0.77  0.59  REG   EF
+REG2 -0.81  0.66  REG   EF
+REG3 -0.72  0.52  REG   EF
+REG4 -0.74  0.55  REG   EC
+REG5 -0.69  0.48  REG   EC
+REG6 -0.81  0.66  REG   EC
+REG7 -0.82  0.67  REG   ST
+REG8 -0.72  0.51  REG   CC
+GRD1 -0.71  0.50  GRD   EF
+GRD2 -0.76  0.59  GRD   EC
+GRD3 -0.80  0.64  GRD   ST
+GRD4 -0.84  0.71  GRD   ST
+GRD5 -0.71  0.50  GRD   CC
+SCH1 -0.80  0.64  GRD   EF
+SCH2 -0.82  0.67  SCH   EC
+SCH3 -0.82  0.68  SCH   EC
+SCH4 -0.85  0.72  SCH   ST
+SCH5 -0.78  0.60  SCH   CC
+PAY1 -0.82  0.68  PAY   EF
+PAY2 -0.83  0.69  PAY   ST
+PAY3 -0.79  0.62  PAY   EC
+PAY4 -0.76  0.58  PAY   CC
+
+ 2 factors oblimin communalities range 0.32 0.99 mean 0.568
+var explained (SS loadings, prop, cum): [array([7.504, 4.995]), array([0.341, 0.227]), array([0.341, 0.568])]
+factor corr [[1.0, 0.73], [0.73, 1.0]]
+         0     1    h2  mod char
+REG1  0.17  0.67  0.47  REG   EF
+REG2  0.20  0.69  0.52  REG   EF
+REG3 -0.07  0.88  0.77  REG   EF
+REG4  0.00  0.82  0.67  REG   EC
+REG5 -0.13  0.90  0.83  REG   EC
+REG6  0.27  0.62  0.45  REG   EC
+REG7  0.48  0.40  0.39  REG   ST
+REG8  0.30  0.48  0.32  REG   CC
+GRD1  0.18  0.60  0.39  GRD   EF
+GRD2  0.57  0.25  0.38  GRD   EC
+GRD3  0.43  0.43  0.37  GRD   ST
+GRD4  0.60  0.30  0.45  GRD   ST
+GRD5  0.27  0.50  0.32  GRD   CC
+SCH1  0.73  0.11  0.55  GRD   EF
+SCH2  0.69  0.18  0.50  SCH   EC
+SCH3  0.72  0.15  0.55  SCH   EC
+SCH4  0.76  0.14  0.59  SCH   ST
+SCH5  0.85 -0.03  0.72  SCH   CC
+PAY1  0.86 -0.00  0.75  PAY   EF
+PAY2  0.91 -0.04  0.83  PAY   ST
+PAY3  0.98 -0.16  0.99  PAY   EC
+PAY4  0.82 -0.02  0.68  PAY   CC
+
+ 2 factors varimax communalities range 0.52 0.78 mean 0.668
+var explained (SS loadings, prop, cum): [array([7.922, 6.763]), array([0.36 , 0.307]), array([0.36 , 0.668])]
+         0     1    h2  mod char
+REG1  0.41  0.69  0.64  REG   EF
+REG2  0.44  0.73  0.72  REG   EF
+REG3  0.26  0.78  0.68  REG   EF
+REG4  0.31  0.76  0.67  REG   EC
+REG5  0.22  0.78  0.66  REG   EC
+REG6  0.47  0.68  0.69  REG   EC
+REG7  0.59  0.57  0.67  REG   ST
+REG8  0.45  0.57  0.53  REG   CC
+GRD1  0.39  0.63  0.54  GRD   EF
+GRD2  0.61  0.47  0.59  GRD   EC
+GRD3  0.56  0.58  0.65  GRD   ST
+GRD4  0.66  0.53  0.71  GRD   ST
+GRD5  0.44  0.57  0.52  GRD   CC
+SCH1  0.71  0.41  0.67  GRD   EF
+SCH2  0.69  0.46  0.69  SCH   EC
+SCH3  0.71  0.44  0.70  SCH   EC
+SCH4  0.74  0.45  0.75  SCH   ST
+SCH5  0.76  0.32  0.68  SCH   CC
+PAY1  0.79  0.36  0.75  PAY   EF
+PAY2  0.81  0.34  0.78  PAY   ST
+PAY3  0.83  0.26  0.75  PAY   EC
+PAY4  0.74  0.32  0.65  PAY   CC

@@ -1,0 +1,25 @@
+ARI composites vs score-only 1.0
+variance of composites (sum) 1.9323 | residual variance after removing each respondent mean 0.1749 | share 9.05 %
+eigenvalues of residual covariance [0.0851 0.0516 0.0383 0.    ] | share of total composite variance by 1st residual comp 4.4 %
+1st residual component loading (EF,EC,ST,CC): [-0.354 -0.461  0.001  0.814]
+label changes along sorted overall score: composites 2 | score-only 2
+modules vs score-only ARI 0.883
+score-only   0    1    2
+modules                 
+0           53    0    0
+1            1  127    4
+2            0    6  123
+misassigned 11 of 314 = 3.5 % ; label changes along score 16
+22-item overall-only vs 4-composite KM ARI 0.9315
+22-item       0    1    2
+4-composite              
+0            52    2    0
+1             1  130    2
+2             0    2  125
+misassigned 7 ; mono changes 2 12
+tertiles vs KM ARI 0.5
+KMeans    0   1    2
+tertile             
+0        54  51    0
+1         0  82   23
+2         0   0  104

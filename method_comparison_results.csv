@@ -1,0 +1,8 @@
+scenario,ARI rule,Parallel analysis,Gap statistic,GMM BIC,Silhouette>=0.5
+U: one dimension,0.067,0.0,0.05,0.017,0.0
+G: groups on one dimension,0.0,0.0,0.5,1.0,0.85
+"M: profile types, gap=0.2",0.05,0.0,0.133,0.0,0.0
+"M: profile types, gap=0.4",0.267,0.0,0.117,0.017,0.0
+"M: profile types, gap=0.6",0.9,0.067,0.017,0.017,0.0
+"M: profile types, gap=0.8",1.0,1.0,0.0,0.017,0.0
+"M: profile types, gap=1.0",1.0,1.0,0.083,0.233,0.0

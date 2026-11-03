@@ -1,0 +1,102 @@
+== loss by tau (k_rule=3), calibration half
+ krule  tau  loss_cal  fs_cal  mp_cal  loss_val  fs_val  mp_val
+     3 0.50     0.219   0.003   0.435     0.205   0.005   0.405
+     3 0.55     0.197   0.004   0.389     0.191   0.008   0.375
+     3 0.60     0.183   0.007   0.359     0.181   0.009   0.352
+     3 0.65     0.173   0.009   0.338     0.174   0.014   0.334
+     3 0.70     0.167   0.014   0.320     0.170   0.023   0.317
+     3 0.75     0.162   0.021   0.303     0.166   0.034   0.298
+     3 0.80     0.157   0.037   0.278     0.161   0.053   0.269
+     3 0.85     0.155   0.072   0.238     0.156   0.088   0.225
+     3 0.90     0.164   0.148   0.180     0.166   0.168   0.165
+     3 0.95     0.209   0.329   0.090     0.226   0.375   0.077
+k_rule=2: tau* (calibration) = 0.90; validation loss 0.248 (FS 0.091, MP 0.405); tau=0.80 validation loss 0.293
+k_rule=3: tau* (calibration) = 0.85; validation loss 0.156 (FS 0.088, MP 0.225); tau=0.80 validation loss 0.161
+k_rule=4: tau* (calibration) = 0.65; validation loss 0.086 (FS 0.101, MP 0.072); tau=0.80 validation loss 0.136
+validation, k=3, tau=0.80: false-structure 5.3% (config-bootstrap 95% CI 3.4-7.5); missed-profile 26.9% (15.6-38.7)
+validation, k=3, tau=0.85: false-structure 8.8% (config-bootstrap 95% CI 5.9-12.1); missed-profile 22.5% (12.6-33.0)
+validation, k=3, tau=0.90: false-structure 16.8% (config-bootstrap 95% CI 12.1-21.8); missed-profile 16.5% (8.9-24.9)
+== pooled Monte Carlo (replication-level) rates, validation half, k_rule=3
+tau=0.80 level-only (false structure = ARI<tau): 5.3% (Wilson 4.8-5.7, n=10000)
+tau=0.80 relevant profile (missed = ARI>=tau): 26.9% (Wilson 26.0-27.9, n=8000)
+tau=0.85 level-only (false structure = ARI<tau): 8.8% (Wilson 8.2-9.3, n=10000)
+tau=0.85 relevant profile (missed = ARI>=tau): 22.5% (Wilson 21.6-23.4, n=8000)
+== error by class and by gap, k_rule=3, all configs, tau = 0.80 and tau*
+tau 0.8
+cls
+A    0.911
+B    0.985
+C    0.273
+D    0.843
+class C by gap (missed-profile rate):
+gap
+0.6    0.693
+0.8    0.381
+1.0    0.072
+1.4    0.002
+class D (weak/continuous) P(called thresholds):
+w
+gap 0.2    0.801
+gap 0.4    0.777
+rho 0.1    0.887
+rho 0.2    0.918
+rho 0.3    0.831
+tau 0.85
+cls
+A    0.838
+B    0.975
+C    0.231
+D    0.759
+class C by gap (missed-profile rate):
+gap
+0.6    0.601
+0.8    0.317
+1.0    0.053
+1.4    0.001
+class D (weak/continuous) P(called thresholds):
+w
+gap 0.2    0.723
+gap 0.4    0.685
+rho 0.1    0.800
+rho 0.2    0.842
+rho 0.3    0.743
+== class B (level-only groups), P(thresholds) at tau=0.80 by matched/mismatched k_rule
+match
+False    0.900
+True     0.971
+== P(flag) by class: residual-profile test and composite parallel analysis
+     resid_flag  pa_flag
+cls                     
+A         0.001    0.000
+B         0.000    0.000
+C         0.792    0.544
+D         0.242    0.000
+         resid_flag  pa_flag
+w                           
+gap 0.2       0.017      0.0
+gap 0.4       0.603      0.0
+rho 0.1       0.001      0.0
+rho 0.2       0.133      0.0
+rho 0.3       0.526      0.0
+     resid_flag  pa_flag
+gap                     
+0.6       0.651    0.050
+0.8       0.821    0.343
+1.0       0.888    0.782
+1.4       0.801    0.928
+== mean label changes along the overall score (k_rule=3; 2 = monotone/interval partition)
+cls
+A     8.15
+B     4.32
+C    86.99
+D    13.00
+== share of replications with ARI<tau among class A/B by nuisance factors (tau=0.80, k=3)
+n {150: 0.07, 314: 0.042, 600: 0.014}
+sigma_item {0.35: 0.037, 0.45: 0.047, 0.6: 0.055}
+s_theta {0.4: 0.078, 0.55: 0.039, 0.8: 0.021}
+kappa {0.0: 0.051, 0.25: 0.048, 0.5: 0.035}
+base {4.0: 0.052, 4.25: 0.044, 4.6: 0.038}
+sigma_c {0.1: 0.041, 0.2: 0.053, 0.3: 0.039}
+het {0: 0.042, 1: 0.048}
+sigma_mod {0.0: 0.039, 0.3: 0.051}
+props {'equal': 0.038, 'skewed': 0.052, 'survey': 0.041}

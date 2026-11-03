@@ -1,0 +1,2 @@
+lambda1 observed 0.0851; null 95th percentile 0.0933; p = 0.318
+one-factor loadings (EF,EC,ST,CC): [-0.664 -0.678 -0.656 -0.605] unique variances: [0.044 0.043 0.053 0.09 ]
